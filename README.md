@@ -1,2 +1,1 @@
-# research-byLearning
- Techno culture club
+# research-by-learning
